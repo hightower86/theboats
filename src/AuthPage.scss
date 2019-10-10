@@ -1,0 +1,19 @@
+.auth-page {
+  height: 80vh;
+  width: 100%;
+  text-align: center;
+  h1 {
+    color: red;
+  }
+}
+
+#mapid {
+  height: 300px;
+  width: auto;
+  // background-color: #999;
+}
+
+.leaflet-container {
+  height: 400px;
+  width: 100%;
+}
